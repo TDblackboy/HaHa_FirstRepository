@@ -1,0 +1,19 @@
+@【数据流格式】
+
+string - json
+
+
+@【数据交互】
+
+1[a标签-js交互]
+
+database[存数据] <-> javabean[核心处理] <-> servlet[接受请求，做出回应] 
+<-> js(ajax)[预处理，发送请求，接受回馈] 
+<-> jsp[交互界面，数据展示]
+
+2[form表单-js交互]
+
+
+@【jsp - js ：js中的方法使用】
+
+使用方法function
